@@ -1,16 +1,15 @@
-## Hi there 👋
+## Latika Swarnkar — Backend Engineer
 
-<!--
-**latika25/latika25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Node.js · Go · TypeScript · AWS · DynamoDB · Microservices
 
-Here are some ideas to get you started:
+Currently: Software Engineer @ ANZ (via DemystData)
+Building distributed, cloud-native backend systems since 2022.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- URL Shortener with Redis caching + AWS deployment
+- Real-time Notification System (WebSockets + AWS SNS/SQS)
+
+### Experience
+- 4+ years backend engineering in production
+- Microservices architecture, event-driven systems
+- AWS (EC2, Lambda, SQS, SNS, DynamoDB), Docker, CI/CD
