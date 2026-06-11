@@ -2,7 +2,7 @@
 
 Node.js · Go · TypeScript · AWS · DynamoDB · Microservices
 
-Currently: Software Engineer @ ANZ (via DemystData)
+Currently: Software Engineer @ ANZ
 Building distributed, cloud-native backend systems since 2022.
 
 ### What I'm working on
